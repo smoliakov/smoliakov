@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I plan, design, code and ship software. 
+
+• I'm passionate about frontend and giving back to others, mostly focused on React.js, modern architecture and simplicity.
+
+• I have experience in team management and team hiring (FE, BE, QA, Analysts), starting products from scratch, choosing technologies that fit best.
+
+• Core skills: React.js / Redux / Next.js / RESTful / ES6+ / TypeScript / Webpack / Vite / SASS / LESS / CSS Modules / CSS-in-JS / Jest / Architecture / CI-CD / Cross-browsers compatibility / Firebase / MongoDB
+
 <!--
 **smoliakov/smoliakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
