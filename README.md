@@ -6,7 +6,7 @@ I plan, design, code and ship software.
 
 • I have experience in team management and team hiring (FE, BE, QA, Analysts), starting products from scratch, choosing technologies that fit best.
 
-• Core skills: React.js / Redux / Next.js / RESTful / ES6+ / TypeScript / Webpack / Vite / SASS / LESS / CSS Modules / CSS-in-JS / Jest / Architecture / CI-CD / Cross-browsers compatibility / Firebase / MongoDB
+• Core skills: React.js / Next.js / RESTful / ES6+ / TypeScript / Webpack / Redux / Vite / SASS / LESS / CSS Modules / CSS-in-JS / Jest / Architecture / CI-CD / Cross-browsers compatibility / Firebase / MongoDB / Supabase
 
 <!--
 **smoliakov/smoliakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
